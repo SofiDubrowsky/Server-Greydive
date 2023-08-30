@@ -44,7 +44,7 @@ A continuación, una guía paso a paso para utilizar la aplicación **GREYDIVE**
 ### **2. Explorar el Dashboard y los Formularios**
 
 - Al acceder, serás recibido por un dashboard que muestra los formularios completados y tus datos.
-- En la esquina inferior izquierda, encontrarás una barra de búsqueda que te permite acceder rápidamente a nuevos formularios. (Con el codigo "1", podras visualizar el formulario "Formulario de registro")
+- En la esquina inferior izquierda, encontrarás una barra de búsqueda que te permite acceder rápidamente a nuevos formularios. (Por el momento solo hay 3 formularios de prueba. Con el codigo "1", podras visualizar el formulario "Formulario de registro", con el codigo "2" el formulario "Formulario de Validación" y con el "3" el formulario "Test de Gustos Personales")
 - Si ingresas un código de formulario inválido o uno que ya has completado, se te notificará el error.
 - Los códigos válidos te llevarán a la página de completar el formulario.
 
@@ -72,7 +72,4 @@ A continuación, una guía paso a paso para utilizar la aplicación **GREYDIVE**
 Esta guía proporciona una visión completa de cómo utilizar esta aplicación de encuestas. 
 
 **¡Te invito a probar la aplicación!**
-- Deploy de la app: [Greydive](https://greydive-otxe.onrender.com/)
-- Deploy del server: [Server](https://server-greydive-production.up.railway.app/)
-  
-*Recuerda utilizar el codigo "1" al momento de agregar un nuevo formulario. 
+- Deploy: [Greydive](https://greydive-otxe.onrender.com/)
