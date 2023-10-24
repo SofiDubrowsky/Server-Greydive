@@ -67,7 +67,7 @@ A continuación, una guía paso a paso para utilizar la aplicación **GREYDIVE**
 - Ten en cuenta que la barra de navegación solo aparecerá cuando estés logueado.
 - Sin inicio de sesión, no podrás acceder a la aplicación.
 
-## **🚀 ¡Es hora de sumergirse en GREYDIVE!**
+## **🚀 ¡¡Es hora de sumergirse en GREYDIVE!!**
 
 Esta guía proporciona una visión completa de cómo utilizar esta aplicación de encuestas. 
 
